@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MyArrayList {
-  
+ /* 
   public static void main(String[] args) {
     // TODO Auto-generated method stub
     List<String> sampleStrings = new ArrayList<String>();
@@ -15,5 +15,5 @@ public class MyArrayList {
     
     System.out.println(sampleStrings);
   }
-
+ */
 }
