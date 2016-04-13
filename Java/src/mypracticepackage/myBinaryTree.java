@@ -2,7 +2,7 @@ package mypracticepackage;
 
 public class myBinaryTree {
   
-  public static TreeNode root;
+  private TreeNode root;
   
   public myBinaryTree(){
     this.root = null;

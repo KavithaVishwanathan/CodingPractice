@@ -34,6 +34,7 @@ public class LinkedList<T> {
     }
     
   }
+  
   /*
   public LinkedList<T> mergeList(LinkedList<T> l1, LinkedList<T> l2) {
     LinkedList<T> result;
@@ -47,6 +48,7 @@ public class LinkedList<T> {
     return result;
   }
   */
+  
   @Override
   public String toString() {
     return "LinkedList [head=" + head + "]";

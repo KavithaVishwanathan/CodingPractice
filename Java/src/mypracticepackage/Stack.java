@@ -23,8 +23,7 @@ public class Stack {
       System.out.println("Stack is empty");
       return 0;
     } else {
-      top --;
-      return myStack[top + 1];
+      return myStack[top--];
     }
   }
  
@@ -43,7 +42,6 @@ public class Stack {
     System.out.println(stack.pop());
     System.out.println(stack.pop());
     System.out.println(stack.pop());
-
   }
 
 }

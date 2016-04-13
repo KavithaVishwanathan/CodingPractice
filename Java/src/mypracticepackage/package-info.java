@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author Kavitha
- *
- */
-package mypracticepackage;
